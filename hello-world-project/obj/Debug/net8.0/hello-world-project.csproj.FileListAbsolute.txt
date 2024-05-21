@@ -1,0 +1,14 @@
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/bin/Debug/net8.0/hello-world-project
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/bin/Debug/net8.0/hello-world-project.deps.json
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/bin/Debug/net8.0/hello-world-project.runtimeconfig.json
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/bin/Debug/net8.0/hello-world-project.dll
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/bin/Debug/net8.0/hello-world-project.pdb
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.AssemblyInfoInputs.cache
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.AssemblyInfo.cs
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.csproj.CoreCompileInputs.cache
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.dll
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/refint/hello-world-project.dll
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.pdb
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/hello-world-project.genruntimeconfig.cache
+/home/hatziq/github/freecodecamp-c-sharp/hello-world-project/obj/Debug/net8.0/ref/hello-world-project.dll
