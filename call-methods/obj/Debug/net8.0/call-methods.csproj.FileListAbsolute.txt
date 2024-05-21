@@ -1,0 +1,15 @@
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/bin/Debug/net8.0/call-methods
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/bin/Debug/net8.0/call-methods.deps.json
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/bin/Debug/net8.0/call-methods.runtimeconfig.json
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/bin/Debug/net8.0/call-methods.dll
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/bin/Debug/net8.0/call-methods.pdb
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.AssemblyInfoInputs.cache
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.AssemblyInfo.cs
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.csproj.CoreCompileInputs.cache
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.sourcelink.json
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.dll
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/refint/call-methods.dll
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.pdb
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/call-methods.genruntimeconfig.cache
+/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/Debug/net8.0/ref/call-methods.dll
