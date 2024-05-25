@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "three-rolling-dice/1.0.0": {
+        "runtime": {
+          "three-rolling-dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "three-rolling-dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

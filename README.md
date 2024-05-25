@@ -1,3 +1,5 @@
+Personal code repo which follows this [C# course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) by Microsoft & FreeCodeCamp. 
+
 To create the hello-world project in C#, run `dotnet new console -o ./hello-world-project/`
 
 To compile the code to binary file, run `dotnet build`
