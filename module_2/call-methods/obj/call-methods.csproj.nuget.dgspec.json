@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hatziq/github/freecodecamp-c-sharp/call-methods/call-methods.csproj": {}
+    "/home/hatziq/github/freecodecamp-c-sharp/module_2/call-methods/call-methods.csproj": {}
   },
   "projects": {
-    "/home/hatziq/github/freecodecamp-c-sharp/call-methods/call-methods.csproj": {
+    "/home/hatziq/github/freecodecamp-c-sharp/module_2/call-methods/call-methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hatziq/github/freecodecamp-c-sharp/call-methods/call-methods.csproj",
+        "projectUniqueName": "/home/hatziq/github/freecodecamp-c-sharp/module_2/call-methods/call-methods.csproj",
         "projectName": "call-methods",
-        "projectPath": "/home/hatziq/github/freecodecamp-c-sharp/call-methods/call-methods.csproj",
+        "projectPath": "/home/hatziq/github/freecodecamp-c-sharp/module_2/call-methods/call-methods.csproj",
         "packagesPath": "/home/hatziq/.nuget/packages/",
-        "outputPath": "/home/hatziq/github/freecodecamp-c-sharp/call-methods/obj/",
+        "outputPath": "/home/hatziq/github/freecodecamp-c-sharp/module_2/call-methods/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hatziq/.nuget/NuGet/NuGet.Config"

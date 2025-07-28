@@ -1,0 +1,41 @@
+# Ignore build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Ignore Rider and VSCode files
+*.user
+*.suo
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.vs/
+*.DS_Store
+
+# Ignore NuGet package outputs
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Ignore backup & metadata files
+*.bak
+*.pdb
+*.mdb
+*.cache
+
+# Ignore ASP.NET secrets
+secrets.json
+
+# Ignore generated configs
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# Ignore coverage / test artifacts
+TestResults/
+coverage/
+
+# Ignore dotnet watch & other temp files
+**/launchSettings.json

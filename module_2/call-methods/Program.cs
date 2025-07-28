@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+
+// See https://aka.ms/new-console-template for more information
 Random dice1 = new Random(); 
 int roll = dice1.Next(1, 7); // Clase / stateful method. Requires the class to be instanciated first, before the method can be called 
 Console.WriteLine(roll); // WriteLine(...) is a static method 
